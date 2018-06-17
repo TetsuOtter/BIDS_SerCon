@@ -1,0 +1,11 @@
+#exinclude these files
+*.cache
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+Mackoy.IInputDevice.dll
+
+#exinclude these folders
+obj\Debug\
+bin\Debug\
