@@ -7,5 +7,6 @@
 Mackoy.IInputDevice.dll
 
 #exinclude these folders
-obj\Debug\
+obj\Debug\*.cs
+obj\Debug\*.CopyComplete
 bin\Debug\
